@@ -1,7 +1,7 @@
 # 📰 AI Trends Daily
 
 > **AI 趋势日报 / Daily AI News, AI Trends & GitHub Trending**  
-> 每日自动更新 · Auto-updated daily · 最新：**2026-10-08**
+> 每日自动更新 · Auto-updated daily · 最新：**2026-10-09**
 
 一个每天自动更新的 **AI 资讯 / AI 趋势 / GitHub 热门项目** Markdown 归档。
 聚焦大模型（LLM）、生成式 AI（AIGC）、AI Agent、开源工具与行业动态。
@@ -16,8 +16,9 @@
 - 🛠️ **GitHub 热门** — 每日高星 AI / Agent / 开发工具项目
 - 🤗 **HuggingFace 模型** — 新发布热门模型
 
-## 📅 日报归档 / Daily Archive（共 7 天）
+## 📅 日报归档 / Daily Archive（共 8 天）
 
+- [2026-10-09](reports/2026-10-09.md)
 - [2026-10-08](reports/2026-10-08.md)
 - [2026-10-07](reports/2026-10-07.md)
 - [2026-10-06](reports/2026-10-06.md)
